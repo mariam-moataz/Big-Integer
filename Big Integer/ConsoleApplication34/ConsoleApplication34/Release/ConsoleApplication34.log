@@ -1,0 +1,9 @@
+﻿  BigInteger.cpp
+c:\users\lenovo\documents\visual studio 2013\projects\consoleapplication34\consoleapplication34\biginteger.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+c:\users\lenovo\documents\visual studio 2013\projects\consoleapplication34\consoleapplication34\source.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\lenovo\documents\visual studio 2013\projects\consoleapplication34\consoleapplication34\source.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 343 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication34.vcxproj -> C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConsoleApplication34\Release\ConsoleApplication34.exe
